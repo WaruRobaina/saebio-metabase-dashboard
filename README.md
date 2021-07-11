@@ -3,4 +3,4 @@ Cuadro de mando realizado con Metabase para **Saebio: Desarrollo de una vista pa
 
 La versión de Metabase utilizada en este cuadro de mando es 0.36.7.
 
-El trabajo completo tambien debe añadir el uso de una [GUI](https://github.com/WaruRobaina/saebio-gui.git) y una [API](https://github.com/WaruRobaina/Saebio-data-API.git) .
+El trabajo completo tambien debe añadir el uso de la [GUI](https://github.com/WaruRobaina/saebio-gui.git) , la [API](https://github.com/WaruRobaina/Saebio-data-API.git) y la [base de datos](https://github.com/WaruRobaina/saebio-database.git) .
